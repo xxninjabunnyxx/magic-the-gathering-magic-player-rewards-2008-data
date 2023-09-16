@@ -1,0 +1,105 @@
+---
+object: card
+id: 6c5823bb-d56d-4bed-ba3f-09bdd93c52dc
+oracle_id: d57a8f0b-7989-4db5-8756-6f2690097252
+multiverse_ids: []
+tcgplayer_id: 38304
+cardmarket_id: 18826
+name: Damnation
+lang: en
+released_at: '2008-01-01'
+uri: https://api.scryfall.com/cards/6c5823bb-d56d-4bed-ba3f-09bdd93c52dc
+scryfall_uri: https://scryfall.com/card/p08/1/damnation?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/c/6c5823bb-d56d-4bed-ba3f-09bdd93c52dc.jpg?1676316329
+  normal: https://cards.scryfall.io/normal/front/6/c/6c5823bb-d56d-4bed-ba3f-09bdd93c52dc.jpg?1676316329
+  large: https://cards.scryfall.io/large/front/6/c/6c5823bb-d56d-4bed-ba3f-09bdd93c52dc.jpg?1676316329
+  png: https://cards.scryfall.io/png/front/6/c/6c5823bb-d56d-4bed-ba3f-09bdd93c52dc.png?1676316329
+  art_crop: https://cards.scryfall.io/art_crop/front/6/c/6c5823bb-d56d-4bed-ba3f-09bdd93c52dc.jpg?1676316329
+  border_crop: https://cards.scryfall.io/border_crop/front/6/c/6c5823bb-d56d-4bed-ba3f-09bdd93c52dc.jpg?1676316329
+mana_cost: "{2}{B}{B}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: Destroy all creatures. They can't be regenerated.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 6c1d0a31-b5d2-421d-95f4-5816382f764f
+set: p08
+set_name: Magic Player Rewards 2008
+set_type: promo
+set_uri: https://api.scryfall.com/sets/6c1d0a31-b5d2-421d-95f4-5816382f764f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ap08&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/p08?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6c5823bb-d56d-4bed-ba3f-09bdd93c52dc/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad57a8f0b-7989-4db5-8756-6f2690097252&unique=prints
+collector_number: '1'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ron Spencer
+artist_ids:
+- dab52c11-0564-4207-a4a1-c1735c946a65
+illustration_id: 6dba9431-6ad3-4a53-848a-e64c0215874f
+border_color: black
+frame: '2003'
+full_art: true
+textless: true
+booster: false
+story_spotlight: false
+promo_types:
+- playerrewards
+edhrec_rank: 199
+prices:
+  usd: 
+  usd_foil: '39.39'
+  usd_etched: 
+  eur: 
+  eur_foil: '18.00'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Damnation&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Damnation&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Damnation
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38304?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Damnation&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Damnation&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

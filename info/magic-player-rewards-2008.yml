@@ -1,0 +1,17 @@
+---
+object: set
+id: 6c1d0a31-b5d2-421d-95f4-5816382f764f
+code: p08
+name: Magic Player Rewards 2008
+uri: https://api.scryfall.com/sets/6c1d0a31-b5d2-421d-95f4-5816382f764f
+scryfall_uri: https://scryfall.com/sets/p08
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ap08&unique=prints
+released_at: '2008-01-01'
+set_type: promo
+card_count: 7
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: mpr
+block: Magic Player Rewards
+icon_svg_uri: https://svgs.scryfall.io/sets/default.svg?1694404800

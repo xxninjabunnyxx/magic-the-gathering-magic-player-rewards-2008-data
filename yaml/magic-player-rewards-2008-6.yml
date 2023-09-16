@@ -1,0 +1,108 @@
+---
+object: card
+id: 15813b4a-9eee-4724-97f3-c1b845cba330
+oracle_id: '02090581-61aa-4348-ad57-451be8ee91c2'
+multiverse_ids: []
+tcgplayer_id: 38325
+cardmarket_id: 19651
+name: Ponder
+lang: en
+released_at: '2008-01-01'
+uri: https://api.scryfall.com/cards/15813b4a-9eee-4724-97f3-c1b845cba330
+scryfall_uri: https://scryfall.com/card/p08/6/ponder?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/5/15813b4a-9eee-4724-97f3-c1b845cba330.jpg?1561756703
+  normal: https://cards.scryfall.io/normal/front/1/5/15813b4a-9eee-4724-97f3-c1b845cba330.jpg?1561756703
+  large: https://cards.scryfall.io/large/front/1/5/15813b4a-9eee-4724-97f3-c1b845cba330.jpg?1561756703
+  png: https://cards.scryfall.io/png/front/1/5/15813b4a-9eee-4724-97f3-c1b845cba330.png?1561756703
+  art_crop: https://cards.scryfall.io/art_crop/front/1/5/15813b4a-9eee-4724-97f3-c1b845cba330.jpg?1561756703
+  border_crop: https://cards.scryfall.io/border_crop/front/1/5/15813b4a-9eee-4724-97f3-c1b845cba330.jpg?1561756703
+mana_cost: "{U}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: |-
+  Look at the top three cards of your library, then put them back in any order. You may shuffle.
+  Draw a card.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: banned
+  legacy: legal
+  pauper: legal
+  vintage: restricted
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 6c1d0a31-b5d2-421d-95f4-5816382f764f
+set: p08
+set_name: Magic Player Rewards 2008
+set_type: promo
+set_uri: https://api.scryfall.com/sets/6c1d0a31-b5d2-421d-95f4-5816382f764f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ap08&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/p08?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/15813b4a-9eee-4724-97f3-c1b845cba330/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A02090581-61aa-4348-ad57-451be8ee91c2&unique=prints
+collector_number: '6'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steve Argyle
+artist_ids:
+- a44ddda4-5331-4f83-aac9-3e00ed36bd7b
+illustration_id: 5314f596-18cd-4558-bdf8-93bd593a79fe
+border_color: black
+frame: '2003'
+full_art: true
+textless: true
+booster: false
+story_spotlight: false
+promo_types:
+- playerrewards
+edhrec_rank: 101
+penny_rank: 6
+prices:
+  usd: '13.52'
+  usd_foil: 
+  usd_etched: 
+  eur: '6.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ponder&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ponder&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ponder
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38325?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ponder&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ponder&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
